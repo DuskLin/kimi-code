@@ -1,5 +1,11 @@
 # @moonshot-ai/kimi-code-sdk
 
+## 0.15.3
+
+### Patch Changes
+
+- [#2679](https://github.com/MoonshotAI/kimi-code/pull/2679) [`7b2784b`](https://github.com/MoonshotAI/kimi-code/commit/7b2784b9b7bf4749058da48923ecbbc8019eb7af) Thanks [@liruifengv](https://github.com/liruifengv)! - Subagent lifecycle events and background task info now carry the subagent's bound model and thinking effort.
+
 ## 0.15.2
 
 ### Patch Changes
